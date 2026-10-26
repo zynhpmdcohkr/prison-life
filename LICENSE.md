@@ -19,6 +19,8 @@ Key highlights include:
 - 🔫 **Weapon Farm** — locates and equips the best available weapons from all spawn points
 - 🏆 **Criminal Rank Boost** — maximizes escape count per session for fastest rank progression
 
+### [⬇️ Download Prison Life Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
